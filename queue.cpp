@@ -61,7 +61,7 @@ class Queue {
 
 int main() {
   Queue q(6);
-  q.push(4);
+  q.push(3);
   q.push(14);
   q.push(24);
   q.push(34);
