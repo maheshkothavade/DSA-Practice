@@ -9,4 +9,5 @@ LIFO : Last In First Out
 ## Queue : 
 Queue is a linear data structure which follows FIFO principle.
 FIFO : First In First Out
+Queue has insertion at both ends and deletion also possible through both ends(Deque)
          
